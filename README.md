@@ -8,8 +8,7 @@ Repositório destinado ao meu portfólio profissional, apresentando meus projeto
 * JavaScript
 
 ## 🔗 Link do Projeto
-Acesse o portfólio online aqui: [https://babyjoker128.github.io/meu-portfolio/](https://babyjoker128.github.io/meu-portfolio/)
-
+Acesse o portfólio online aqui: [[https://babyjoker128.github.io/meu-portfolio/](https://esthefaneo.github.io/meu-portfolio/)]
 ## 📂 Estrutura do Repositório
 * `index.html`: Estrutura principal da página.
 * `/css`: Estilização e layout.
